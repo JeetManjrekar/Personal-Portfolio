@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f0f0f0"/>
+  <g transform="translate(400,300)">
+    <rect x="-350" y="-200" width="700" height="400" fill="#e0e0e0" rx="10" ry="10"/>
+    <rect x="-300" y="-150" width="600" height="300" fill="#ffffff" rx="5" ry="5"/>
+    <text x="0" y="-100" font-family="Arial" font-size="32" text-anchor="middle" fill="#333333">Professional Teaching</text>
+    <text x="0" y="0" font-family="Arial" font-size="24" text-anchor="middle" fill="#555555">Technical Workshop Session</text>
+    <g transform="translate(-250,100)">
+      <rect x="0" y="0" width="500" height="10" fill="#3b82f6" rx="5" ry="5"/>
+      <rect x="0" y="30" width="400" height="10" fill="#3b82f6" rx="5" ry="5"/>
+      <rect x="0" y="60" width="450" height="10" fill="#3b82f6" rx="5" ry="5"/>
+    </g>
+    <circle cx="-320" cy="-170" r="15" fill="#ef4444"/>
+    <circle cx="-280" cy="-170" r="15" fill="#f59e0b"/>
+    <circle cx="-240" cy="-170" r="15" fill="#10b981"/>
+  </g>
+</svg>

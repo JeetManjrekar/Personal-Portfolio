@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f0f0f0"/>
+  <g transform="translate(400,300)">
+    <rect x="-350" y="-200" width="700" height="400" fill="#e0e0e0" rx="10" ry="10"/>
+    <rect x="-300" y="-150" width="600" height="300" fill="#ffffff" rx="5" ry="5"/>
+    <text x="0" y="-100" font-family="Arial" font-size="32" text-anchor="middle" fill="#333333">Security Workshop</text>
+    <g transform="translate(0,0)">
+      <path d="M-100,-50 L100,-50 L0,100 Z" fill="#3b82f6" opacity="0.8"/>
+      <circle cx="0" cy="0" r="40" fill="#ef4444" opacity="0.8"/>
+    </g>
+    <text x="0" y="150" font-family="Arial" font-size="24" text-anchor="middle" fill="#555555">Cybersecurity Fundamentals</text>
+  </g>
+</svg>
